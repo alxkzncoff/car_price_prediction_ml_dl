@@ -1,3 +1,6 @@
-# rds6_car_price_prediction_ml_dl
+![Title PNG "Skill Factory"](/GitHub_image/img_title.png)
+# Проект №6. Выбираем авто выгодно (ML и DL)
 
-SkillFactory real data science project №6. Car price prediction with ML and DL
+# Задача
+
+Предсказать стоимость автомобиля по его характеристикам, текстовому описанию или картинке. 
