@@ -13,7 +13,7 @@
 
 ## Road map
 
-![road map](GitHub_image/road map.png)
+![road map](GitHub_image/road_map.png)
 
 ## Подготовка данных
 
